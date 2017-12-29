@@ -1,0 +1,395 @@
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\ApplicationInsights.config
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\csc.exe
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\vbc.exe
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\VBCSCompiler.exe
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\VirtualOrderingSystem.dll.config
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\VirtualOrderingSystem.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\VirtualOrderingSystem.pdb
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Antlr3.Runtime.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\AspNet.ScriptManager.bootstrap.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\AspNet.ScriptManager.jQuery.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\EntityFramework.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\EntityFramework.SqlServer.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.Agent.Intercept.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.DependencyCollector.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.Web.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.WindowsServer.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.ApplicationInsights.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.Core.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Cookies.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Facebook.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Google.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.OAuth.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Twitter.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.ScriptManager.WebForms.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Newtonsoft.Json.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Owin.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\System.Web.Optimization.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\System.Web.Providers.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\WebGrease.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.DependencyCollector.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.Web.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.WindowsServer.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.ApplicationInsights.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\System.Web.Optimization.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Antlr3.Runtime.pdb
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Newtonsoft.Json.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\EntityFramework.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\EntityFramework.SqlServer.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.Core.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\System.Web.Providers.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Facebook.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Cookies.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Google.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Twitter.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.OAuth.xml
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\obj\Debug\VirtualOrderingSystem.csprojResolveAssemblyReference.cache
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\obj\Debug\VirtualOrderingSystem.dll
+E:\LICT\Lict project\VirtualOrderingSystem\VirtualOrderingSystem\obj\Debug\VirtualOrderingSystem.pdb
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\ApplicationInsights.config
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\csc.exe
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\vbc.exe
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\VBCSCompiler.exe
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\VirtualOrderingSystem.dll.config
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\VirtualOrderingSystem.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\VirtualOrderingSystem.pdb
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Antlr3.Runtime.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\AspNet.ScriptManager.bootstrap.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\AspNet.ScriptManager.jQuery.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\EntityFramework.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\EntityFramework.SqlServer.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.Agent.Intercept.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.DependencyCollector.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.Web.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.WindowsServer.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.ApplicationInsights.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.Core.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Cookies.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Facebook.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Google.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.OAuth.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Twitter.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.ScriptManager.WebForms.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Newtonsoft.Json.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Owin.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\System.Web.Optimization.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\System.Web.Providers.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\WebGrease.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.DependencyCollector.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.Web.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.WindowsServer.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.ApplicationInsights.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\System.Web.Optimization.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Antlr3.Runtime.pdb
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Newtonsoft.Json.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\EntityFramework.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\EntityFramework.SqlServer.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.Core.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\System.Web.Providers.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Facebook.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Cookies.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Google.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Twitter.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.OAuth.xml
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\obj\Debug\VirtualOrderingSystem.csprojResolveAssemblyReference.cache
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\obj\Debug\VirtualOrderingSystem.dll
+E:\LICT\SUB_DotNet_02\Project Status\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\obj\Debug\VirtualOrderingSystem.pdb
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\ApplicationInsights.config
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\csc.exe
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\vbc.exe
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\VBCSCompiler.exe
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\VirtualOrderingSystem.dll.config
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\VirtualOrderingSystem.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\VirtualOrderingSystem.pdb
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Antlr3.Runtime.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\AspNet.ScriptManager.jQuery.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\EntityFramework.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\EntityFramework.SqlServer.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.DependencyCollector.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.Web.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.WindowsServer.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.ApplicationInsights.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Google.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Newtonsoft.Json.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Owin.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\System.Web.Optimization.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\System.Web.Providers.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\WebGrease.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.DependencyCollector.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.Web.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.WindowsServer.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.ApplicationInsights.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\System.Web.Optimization.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Antlr3.Runtime.pdb
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Newtonsoft.Json.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\EntityFramework.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\EntityFramework.SqlServer.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\System.Web.Providers.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Google.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\obj\Debug\VirtualOrderingSystem.csprojResolveAssemblyReference.cache
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\obj\Debug\VirtualOrderingSystem.dll
+E:\Media\Video\LICT\04..April 2017\Class_30\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\obj\Debug\VirtualOrderingSystem.pdb
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\ApplicationInsights.config
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\csc.exe
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\vbc.exe
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\VBCSCompiler.exe
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\VirtualOrderingSystem.dll.config
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\VirtualOrderingSystem.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\VirtualOrderingSystem.pdb
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Antlr3.Runtime.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\AspNet.ScriptManager.jQuery.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\EntityFramework.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\EntityFramework.SqlServer.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.DependencyCollector.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.Web.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.WindowsServer.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.ApplicationInsights.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Google.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Newtonsoft.Json.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Owin.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\System.Web.Optimization.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\System.Web.Providers.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\WebGrease.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.DependencyCollector.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.Web.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AI.WindowsServer.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.ApplicationInsights.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\System.Web.Optimization.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Antlr3.Runtime.pdb
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Newtonsoft.Json.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\EntityFramework.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\EntityFramework.SqlServer.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\System.Web.Providers.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Google.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\obj\Debug\VirtualOrderingSystem.csprojResolveAssemblyReference.cache
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\obj\Debug\VirtualOrderingSystem.dll
+D:\Dot Net Projects\LICT\Class 04 April 2017\Class_30--28--04--17\Dynamic Ordering System\VirtualOrderingSystem\VirtualOrderingSystem\obj\Debug\VirtualOrderingSystem.pdb
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\ApplicationInsights.config
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\roslyn\csc.exe
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\roslyn\vbc.exe
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\VirtualOrderingSystem.dll.config
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\VirtualOrderingSystem.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\VirtualOrderingSystem.pdb
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Antlr3.Runtime.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\EntityFramework.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.AI.Web.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.Owin.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Newtonsoft.Json.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Owin.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\System.Web.Optimization.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\System.Web.Providers.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\WebGrease.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.AI.Web.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\System.Web.Optimization.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Newtonsoft.Json.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\EntityFramework.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\System.Web.Providers.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.Owin.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\obj\Debug\VirtualOrderingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\obj\Debug\VirtualOrderingSystem.dll
+C:\Users\Arif\Desktop\Projects For Hosting\4. Dynamic Ordering System\Source Code\VirtualOrderingSystem\obj\Debug\VirtualOrderingSystem.pdb
